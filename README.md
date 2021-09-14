@@ -16,4 +16,7 @@
 
 ![100%](https://progress-bar.dev/90/?title=HTML/CSS&width=120&color=babaca&suffix=%) ![100%](https://progress-bar.dev/90/?title=Wordpress&width=120&color=babaca&suffix=%) ![100%](https://progress-bar.dev/80/?title=Javascript&width=120&color=babaca&suffix=%) ![100%](https://progress-bar.dev/90/?title=Photoshop&width=120&color=babaca&suffix=%) ![100%](https://progress-bar.dev/90/?title=Illustrator&width=120&color=babaca&suffix=%) ![100%](https://progress-bar.dev/90/?title=Figma&width=120&color=babaca&suffix=%) ![100%](https://progress-bar.dev/70/?title=MySQL&width=120&color=babaca&suffix=%) 
 
+[![Hazel's github stats](https://github-readme-stats.vercel.app/api?username=ihazelnuts)](https://github.com/ihazelnuts/github-readme-stats)
+
+
 
