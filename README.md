@@ -3,6 +3,7 @@
 - 💻  I’m currently working as a Web Designer
 - 🏫 I'm a graduate of Bachelor of Science and Information Technology
 - 🌱 I’m currently learning ReactJS, Tailwind CSS and AWS
+- 💼 I upload some of my outputs on https://dribbble.com/ihazelnuuttsss
 - 💬 Ask me about my knowledge and skills on Web Designing, Music & Movies
 - 📫 How to reach me: hazelgwenns@gmail.com
 - 😄 Pronouns: I'm a girl 👩
