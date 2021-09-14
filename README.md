@@ -1,4 +1,4 @@
-### <h1><center>Hi there 👋 I'm Hazel Saingan</center></h1>
+### <h1 style="text-align:center;">Hi there 👋, I'm Hazel Saingan</h1>
 
 - 💻  I’m currently working as a Web Designer
 - 🏫 I'm a graduate of Bachelor of Science and Information Technology
