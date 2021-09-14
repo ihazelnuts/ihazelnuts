@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hazel Saingan
+### <h1> Hi there 👋 I'm Hazel Saingan </h1>
 
 - 💻  I’m currently working as a Web Designer
 - 🏫 I'm a graduate of Bachelor of Science and Information Technology
